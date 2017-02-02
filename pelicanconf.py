@@ -12,7 +12,7 @@ TIMEZONE = 'NZ'
 
 DEFAULT_LANG = 'en'
 
-THEME = 'pelican-themes/pelican-blue'
+THEME = 'pelican-themes/pelican-svbtle'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
